@@ -1,0 +1,19 @@
+{
+  "name": "Training Path 15",
+  "short_name": "TP15",
+  "description": "A private, local-first 15-week athletic rebuild companion.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09100f",
+  "theme_color": "#09100f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
